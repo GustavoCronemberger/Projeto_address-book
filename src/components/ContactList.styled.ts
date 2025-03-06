@@ -120,7 +120,7 @@ export const EditButton = styled.button`
   width: 72px;
 
   &:hover {
-    background-color: #394cfc;
+    background-color:rgb(57, 252, 125);
   }
 `;
 
@@ -134,6 +134,6 @@ export const RemoveButton = styled.button`
   width: 72px;
 
   &:hover {
-    background-color: #c0392b;
+    background-color:rgb(188, 22, 22);
   }
 `;

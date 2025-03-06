@@ -2,12 +2,12 @@
 export const theme = {
     colors: {
       background: '#476177',
-      primary: '#5a4dc7',     
-      secondary: '#6b19d6',   
-      accent: '#53c8ff',      
-      text: '#c9c9c9',          
-      textLight: '#ffffff',      
-      danger: '#fd4d5b'       
+      primary: '#0077b6',    // Azul vibrante como cor primária
+    secondary: '#0096c7',  // Azul secundário para complementação
+    accent: '#90ee90',     // Rosa suave para acentuações
+    text: '#ffffff',       // Azul escuro para o texto principal
+    textLight: '#ffffff',  // Branco para textos em fundos escuros
+    danger: '#d00000'       
     },
     fonts: {
       main: "'Roboto', sans-serif", 
